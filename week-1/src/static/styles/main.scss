@@ -6,3 +6,11 @@ body {
 .bg-color {
   background-color: #24292e;
 }
+
+.input-color {
+  background-color: #313131;
+
+  ::placeholder {
+    color: white;
+  }
+}
