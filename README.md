@@ -1,6 +1,6 @@
 # Python Studying 🐍
 
-### This repo contains my progress in python studying group of FrontendCafe 😁 
+#### This repo contains my progress in python studying group of FrontendCafe 😁 
 
 ## Start 🚀
 
